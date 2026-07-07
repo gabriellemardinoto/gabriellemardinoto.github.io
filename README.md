@@ -20,10 +20,3 @@ https://gabriellemardinoto.github.io/
 
 **LinkedIn:**
 https://www.linkedin.com/in/gabriellemardinoto/
-
-**GitHub:**
-https://github.com/gabriellemardinoto
-
----
-
-Desenvolvido por **Gabrielle Mardinoto**.
